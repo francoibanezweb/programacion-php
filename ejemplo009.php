@@ -6,7 +6,7 @@
 
 <body>
 <p>&nbsp;</p>
-<form method="POST" action="ejemplo9.php">
+<form method="POST" action="ejemplo009.php">
   <table border="0" width="100%">
     <tr>
         <td width="100%" colspan="2">Por favor complete el siguiente 
