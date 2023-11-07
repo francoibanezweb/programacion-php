@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo que vamos a recorrer utilizando la función
+fpassthru(). Si usted está leyendo esto es porque la operación de lectura del
+archivo ha sido exitosa.
